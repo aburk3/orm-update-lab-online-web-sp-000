@@ -47,7 +47,7 @@ class Student
     id = array[0]
     name = array[1]
     grade = array[2]
-    binding.pry
+    # binding.pry
     self.new(id, name, grade)
 
   end
